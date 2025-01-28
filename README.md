@@ -3,8 +3,9 @@
 > A journey to decentralisation governance...
 
 ### Resources
+- [**GitHub Repo**](https://github.com/selfdriven-foundation/dgov-tools)
 - [dgov.education](https://dgov.education)
-- [GitHub Repo](https://github.com/selfdriven-foundation/dgov-tools)
+- [DRep ID Inspector](https://ryun1.github.io/drep-id-inspector/)
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
@@ -12,6 +13,7 @@
 
 ### About
 - Supported by the [selfdriven Foundation](https://selfdriven.foundation)
+- Community managed.  Create pull-request if you have a resource to add!
 
 ### Roadmap
-- Prototype Node Design - bring together existing tech/infrastructure.
+- [Next Steps](ROADMAP.md).
