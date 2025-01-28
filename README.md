@@ -16,4 +16,5 @@
 - Community managed.  Create pull-request if you have a resource to add!
 
 ### Roadmap
-- [Next Steps](ROADMAP.md).
+- [Overview](ROADMAP.md).
+- Merge with [dRep.tools](https://dRep.tools)
