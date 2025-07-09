@@ -8,7 +8,7 @@
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
+- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
 
 ### About
 - Supported by the [selfdriven Foundation](https://selfdriven.foundation)
