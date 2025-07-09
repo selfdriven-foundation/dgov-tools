@@ -1,10 +1,9 @@
-### dGov Tools for Cardano
+### dGov Tools
 
 > A journey to decentralisation governance...
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/dgov-tools)
-- [dgov.education](https://dgov.education)
 - [DRep ID Inspector](https://ryun1.github.io/drep-id-inspector/)
 
 ### Contact Us
